@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-image: url(Antz70VlRI2yU3iwYxyYUknzfz9.jpg);
+    background-size: cover;
+}
+.day{
+    width: 50%;
+    height: auto;
+    border: 10px solid black;
+    background-color: black;
+}
+img{
+    float: right;
+    height: 400px;
+    width: 300px;
+
+    
+}
+.name{
+    position: absolute;
+    color: antiquewhite;
+    padding: 60px 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 100px;
+}
+.details{
+    position:relative;
+    top: 70px;
+    padding: 80px 80px;
+    left: 5px;
+    font-family: 'Times New Roman', Times, serif;
+   color: beige;
+}
+.more{
+    border: 1px solid burlywood;
+    background-color: white;
+    padding: 10px;
+    color: rgb(19, 120, 208);
+    text-decoration: none;
+ border-radius: 5px;
+ width: fit-content;
+}
+.reviwes{
+    border: 1px solid burlywood;
+    background-color:white;
+    padding: 10px;
+    color: rgb(19, 120, 208);
+    text-decoration: none;
+ border-radius: 5px;
+ width: fit-content;
+ text-align: right;
+
+}
